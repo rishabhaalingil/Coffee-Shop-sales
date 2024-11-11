@@ -13,9 +13,9 @@ The objective of this project is to construct a dynamic PowerBI dashboard that w
 10. Insights Generated:Gathered insights and shared the same with the stakeholders.
 11. Data validation:The results obtained from powerbi were then compared with those obtained from the SQL queries.
 # Key KPI's Used in This Project
-1. Total sales analysis:*) Calculates the total sales for each respective month.
-                        *) Determines the month on month increase or decrease in sales.
-                        *) Calculates the difference in sales between the selected month and the previous month.
+1. Total sales analysis:- Calculates the total sales for each respective month.
+                        - Determines the month on month increase or decrease in sales.
+                        - Calculates the difference in sales between the selected month and the previous month.
 
 
 

@@ -14,14 +14,14 @@ The objective of this project is to construct a dynamic PowerBI dashboard that w
 11. Data validation:The results obtained from powerbi were then compared with those obtained from the SQL queries.
 # Key KPI's Used in This Project
 1. Total sales analysis: Calculates the total sales for each respective month.
-                         Determines the month on month increase or decrease in sales.
-                         Calculates the difference in sales between the selected month and the previous month.
+   - Determines the month on month increase or decrease in sales.
+   - Calculates the difference in sales between the selected month and the previous month.
 2. Total order analysis: Calculates the total number of orders for each respective month.
-                         Determines the month on month increase or decrease in the number of orders.
-                         Calculates the difference in number of orders between the selected month and  the previous month.
+   - Determines the month on month increase or decrease in the number of orders.
+   - Calculates the difference in number of orders between the selected month and  the previous month.
 3. Total quantities sold analysis: Calculates the total number of orders for each respective month.
-                                   Determines the month on month increase or decrease in the number of orders.
-                                   Calculates the difference in number of orders between the selected month and  the previous month.
+- Determines the month on month increase or decrease in the number of orders.
+- Calculates the difference in number of orders between the selected month and  the previous month.
 
 
 

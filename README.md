@@ -68,44 +68,58 @@ Low Sales Hours: Early mornings (6 AM–7 AM) and after 5 PM. Peak hours align w
 - Total Sales: $82K.
 - Total Orders: 17,314 orders
 - Total Quantity Sold: 24,870 items
-## Sales Trends:
+### Sales Trends:
 - Displays daily sales trends with an average daily sale of $2,635.
 - The notable peaks in sales occur in the middle of the month, with dips towards the ends.
-## Sales by Weekday/Weekend
+### Sales by Weekday/Weekend
 - Weekend Sales: $23K (28.36% of total sales).
 - Weekday Sales: $59K (71.64% of total sales).
-## Sales by Product Category
+### Sales by Product Category
 - The categories with the highest sales are tea ($22.26K), coffee ($31.26K), and bread ($9.54K).
-## Sales by Product Type:
+### Sales by Product Type:
 - The product types with the highest sales are British Espresso ($10.46K), Brewed Chai Tea ($8.76K), and Hot Chocolate ($8.34K).
-## Sales by Store Location
+### Sales by Store Location
 - Hell’s Kitchen: $27.82K in sales.
 - Astoria: $ 27.31K in sales.
 - Lower Manhattan: $ 26.54 in sales.
-## Sales by Days/Hours
+### Sales by Days/Hours
 - The busiest hours are between 8 AM and 10 AM, with a peak at around 9 AM.
 - Sales are relatively steady throughout the week with slight variations.
 ## Here are the important key performance indicators (KPIs) in detail(February 2023):
 - Total Sales: $76K, which is down 6.8% compared to the last month.
 - Total Orders: 16,359 orders, a decrease of 5.5% from the previous month.
 - Total Quantity Sold: 223,550 items, down 5.3% from last month.
-## Sales Trends:
+### Sales Trends:
 - The average sale per day is $2.7K.
 - There is a noticeable dip in sales around the middle of the month and some peaks towards the end of the month.
-## Sales by Weekday/Weekend:
+### Sales by Weekday/Weekend:
 - Weekday sales: $43K (57% of total sales).
 - Weekend sales: $33K (43% of total sales).
-## Sales by Product Type:
+### Sales by Product Type:
 - Top-performing categories include Espresso (2.1K units), Brewed Coffee (2.1K units), and Hot Chocolate (1.9K units).
 - There is a significant drop in the sales of some categories like Black Tea (-7.3%).
-## Sales by Product Category:
+### Sales by Product Category:
 - The categories with the highest sales are Coffee ($29.27K), Tea ($21.73K), and Bakery ($9.04K).
-## Sales by Store Location:
+### Sales by Store Location:
 - The highest sales are from the Main Street location ($29.5K, 2.1K units), followed by the Broadway location ($27.8K, 1.9K units), and the Astoria location ($18.7K, 1.3K units).
-## Sales by Days/Hours
+### Sales by Days/Hours
 - The busiest hours are between 8 AM and 10 AM, with a peak at around 9 AM.
 - Sales are relatively steady throughout the week with slight variations.
 ## Here are the important key performance indicators (KPIs) in detail(March 2023):
+- Total Sales: $99K, which has seen a massive growth of 29.8% compared to the month of february
+- Total Orders: 21,229 orders and increase of 4.9K orders comparde to last month
+- Total Quantity Sold: 30,406 items up by a massive 29.1 %
+- ### Sales Trends:
+- The average sale per day is $3.2K.
+- The sales per month is almost more than the average during the middle of the month but there is a significant drop at the initial and final stages of the month.
+### Sales by Weekday/Weekend:
+- Weekday sales: $73K (74.23% of total sales).
+- Weekend sales: $25K (25.77% of total sales).
+### Sales by Product Type:
+- Top-performing categories include Barista Espresso (3.50K units), Brewed Chai Tea (3.750K units), and Hot Chocolate (2.475K units).
+- There is a significant drop in the sales of some categories like Black Tea (-7.3%).
+
+  
 
 
 # Recommendations

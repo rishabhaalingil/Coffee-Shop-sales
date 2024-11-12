@@ -77,7 +77,7 @@ Low Sales Hours: Early mornings (6 AM–7 AM) and after 5 PM. Peak hours align w
 ### Sales by Product Category
 - The categories with the highest sales are tea ($22.26K), coffee ($31.26K), and bread ($9.54K).
 ### Sales by Product Type:
-- The product types with the highest sales are British Espresso ($10.46K), Brewed Chai Tea ($8.76K), and Hot Chocolate ($8.34K).
+- The product types with the highest sales are Barista Espresso ($10.46K), Brewed Chai Tea ($8.76K), and Hot Chocolate ($8.34K).
 ### Sales by Store Location
 - Hell’s Kitchen: $27.82K in sales.
 - Astoria: $ 27.31K in sales.
@@ -93,23 +93,22 @@ Low Sales Hours: Early mornings (6 AM–7 AM) and after 5 PM. Peak hours align w
 - The average sale per day is $2.7K.
 - There is a noticeable dip in sales around the middle of the month and some peaks towards the end of the month.
 ### Sales by Weekday/Weekend:
-- Weekday sales: $43K (57% of total sales).
-- Weekend sales: $33K (43% of total sales).
+- Weekday sales: $22K (29.08% of total sales).
+- Weekend sales: $54K (70.9% of total sales).
 ### Sales by Product Type:
-- Top-performing categories include Espresso (2.1K units), Brewed Coffee (2.1K units), and Hot Chocolate (1.9K units).
-- There is a significant drop in the sales of some categories like Black Tea (-7.3%).
+- Top-performing categories include Barista Espresso (2.7K units), Brewed Chai Tea (2.853K units), and Hot Chocolate (1.9K units).
 ### Sales by Product Category:
 - The categories with the highest sales are Coffee ($29.27K), Tea ($21.73K), and Bakery ($9.04K).
 ### Sales by Store Location:
-- The highest sales are from the Main Street location ($29.5K, 2.1K units), followed by the Broadway location ($27.8K, 1.9K units), and the Astoria location ($18.7K, 1.3K units).
+- The highest sales are from Hell's Kitchen ($25.72K), followed by the Lower Manhattan location ($25.32K), and the Astoria location ($25.11K).
 ### Sales by Days/Hours
 - The busiest hours are between 8 AM and 10 AM, with a peak at around 9 AM.
 - Sales are relatively steady throughout the week with slight variations.
 ## Here are the important key performance indicators (KPIs) in detail(March 2023):
 - Total Sales: $99K, which has seen a massive growth of 29.8% compared to the month of february
-- Total Orders: 21,229 orders and increase of 4.9K orders comparde to last month
+- Total Orders: 21,229 orders and increase of 4.9K orders compared to last month
 - Total Quantity Sold: 30,406 items up by a massive 29.1 %
-- ### Sales Trends:
+### Sales Trends:
 - The average sale per day is $3.2K.
 - The sales per month is almost more than the average during the middle of the month but there is a significant drop at the initial and final stages of the month.
 ### Sales by Weekday/Weekend:
@@ -117,11 +116,13 @@ Low Sales Hours: Early mornings (6 AM–7 AM) and after 5 PM. Peak hours align w
 - Weekend sales: $25K (25.77% of total sales).
 ### Sales by Product Type:
 - Top-performing categories include Barista Espresso (3.50K units), Brewed Chai Tea (3.750K units), and Hot Chocolate (2.475K units).
-- There is a significant drop in the sales of some categories like Black Tea (-7.3%).
-
-  
-
-
+### Sales by Product Category:
+- The categories with the highest sales are Coffee ($38.30K), Tea ($27.91K), and Bakery ($11.90K).
+### Sales by Store Location:
+- The highest sales are from Hell's Kitchen ($33.11K), followed by the Lower Manhattan location ($32.89K), and the Astoria location ($32.84K).
+### Sales by Days/Hours
+- The busiest hours are between 8 AM and 10 AM, with a peak at around 10 AM.
+- Sales are relatively steady throughout the week with slight variations.
 # Recommendations
 Analyzing data from all months offers critical insights for business growth. To enhance customer traffic, boost sales and strengthen brand loyalty, here are some strategic actions:
 

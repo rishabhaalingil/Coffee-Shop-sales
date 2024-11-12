@@ -12,6 +12,19 @@ The objective of this project is to construct a dynamic PowerBI dashboard that w
 9. Filters:Applied filters and slicers for analyzing the sales performance as per the selected filters.
 10. Insights Generated:Gathered insights and shared the same with the stakeholders.
 11. Data validation:The results obtained from powerbi were then compared with those obtained from the SQL queries.
+# Data Descriptions
+Here's a description of the data fields in the provided dataset:
+- transaction_id: A unique identifier for each transaction.
+- transaction_date: The date of the transaction.
+- transaction_time: The time of the transaction.
+- transaction_qty: The quantity of items purchased in the transaction.
+- store_id: The identifier for the store where the transaction took place.
+- store_location: The location of the store.
+- product_id: The identifier for the product sold.
+- unit_price: The price per unit of the product.
+- product_category: The category of the product (e.g., Coffee, Tea, Drinking Chocolate).
+- product_type: A more detailed description of the product category.
+- product_detail: The specific product name or variant
 # Key KPI's Used in This Project
 1. Total sales analysis:
 - Calculates the total sales for each respective month.
@@ -49,7 +62,52 @@ The objective of this project is to construct a dynamic PowerBI dashboard that w
 4. Product Category Sales:The most popular beverage is coffee, although tea and drinking chocolate are expanding more quickly, indicating a growing need for non-coffee alternatives. Bundling bakery items with drinks could increase revenue.
 5. Best-Selling Items: Sales of espresso are at the top, followed by chai tea and hot chocolate, indicating a change in consumer preferences. Upselling chances are excellent for high-end products like herbal teas and gourmet coffee.
 6. Sales by Day and Hour:Peak Sales Hours: 7 AM to 11 AM, especially on Monday, Tuesday, and Wednesday. 
-Low Sales Hours: Early mornings (6 AM–7 AM) and after 5 PM. Peak hours align with typical coffee consumption patterns, but early mornings and late evenings see less activity
+Low Sales Hours: Early mornings (6 AM–7 AM) and after 5 PM. Peak hours align with typical coffee consumption patterns, but early mornings and late evenings see less activity.
+# Detailed Insights
+## Here are the important key performance indicators (KPIs) in detail(January 2023):
+- Total Sales: $82K.
+- Total Orders: 17,314 orders
+- Total Quantity Sold: 24,870 items
+## Sales Trends:
+- Displays daily sales trends with an average daily sale of $2,635.
+- The notable peaks in sales occur in the middle of the month, with dips towards the ends.
+## Sales by Weekday/Weekend
+- Weekend Sales: $23K (28.36% of total sales).
+- Weekday Sales: $59K (71.64% of total sales).
+## Sales by Product Category
+- The categories with the highest sales are tea ($22.26K), coffee ($31.26K), and bread ($9.54K).
+## Sales by Product Type:
+- The product types with the highest sales are British Espresso ($10.46K), Brewed Chai Tea ($8.76K), and Hot Chocolate ($8.34K).
+## Sales by Store Location
+- Hell’s Kitchen: $27.82K in sales.
+- Astoria: $ 27.31K in sales.
+- Lower Manhattan: $ 26.54 in sales.
+## Sales by Days/Hours
+- The busiest hours are between 8 AM and 10 AM, with a peak at around 9 AM.
+- Sales are relatively steady throughout the week with slight variations.
+## Here are the important key performance indicators (KPIs) in detail(February 2023):
+- Total Sales: $76K, which is down 6.8% compared to the last month.
+- Total Orders: 16,359 orders, a decrease of 5.5% from the previous month.
+- Total Quantity Sold: 223,550 items, down 5.3% from last month.
+## Sales Trends:
+- The average sale per day is $2.7K.
+- There is a noticeable dip in sales around the middle of the month and some peaks towards the end of the month.
+## Sales by Weekday/Weekend:
+- Weekday sales: $43K (57% of total sales).
+- Weekend sales: $33K (43% of total sales).
+## Sales by Product Type:
+- Top-performing categories include Espresso (2.1K units), Brewed Coffee (2.1K units), and Hot Chocolate (1.9K units).
+- There is a significant drop in the sales of some categories like Black Tea (-7.3%).
+## Sales by Product Category:
+- The categories with the highest sales are Coffee ($29.27K), Tea ($21.73K), and Bakery ($9.04K).
+## Sales by Store Location:
+- The highest sales are from the Main Street location ($29.5K, 2.1K units), followed by the Broadway location ($27.8K, 1.9K units), and the Astoria location ($18.7K, 1.3K units).
+## Sales by Days/Hours
+- The busiest hours are between 8 AM and 10 AM, with a peak at around 9 AM.
+- Sales are relatively steady throughout the week with slight variations.
+## Here are the important key performance indicators (KPIs) in detail(March 2023):
+
+
 # Recommendations
 Analyzing data from all months offers critical insights for business growth. To enhance customer traffic, boost sales and strengthen brand loyalty, here are some strategic actions:
 
@@ -61,10 +119,6 @@ Analyzing data from all months offers critical insights for business growth. To 
 6. Targeted Marketing: Boost sales during mid-month slumps and underperforming categories.
 7. Operational Efficiency: Optimize staffing and inventory for peak hours and locations.
 8. Strategic Planning: Leverage these insights to drive better sales performance and customer satisfaction.
-
-
-
-
 
 
 
